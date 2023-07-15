@@ -4,9 +4,10 @@ My name is Tomasz and I'm studying computer science at the Polish Naval Academy 
 Some screenshots of my finished projects made in Python and Java.
 
 ## **FPS Multiplayer Bullet Hell Game**
+It's a group project and it's in very early stages of development.
 https://github.com/MakaryBardowski/BHMultiplayer
 
-##**PROCEDURAL DUNGEON GENERATION**  
+## **PROCEDURAL DUNGEON GENERATION**  
 Procedural Dungeon Generator with GUI created with Tkinter and Pygame  
 ![recordedVideo](https://user-images.githubusercontent.com/100423134/194754592-a30e4189-cc10-46e1-a7d4-f92a70f636fd.gif)   
 Some maps created by the generator:  
