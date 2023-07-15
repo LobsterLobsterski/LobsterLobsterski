@@ -4,7 +4,7 @@ My name is Tomasz and I'm studying computer science at the Polish Naval Academy 
 Some screenshots of my finished projects made in Python and Java.
 
 ## **FPS Multiplayer Bullet Hell Game**
-It's a group project and it's in very early stages of development.
+It's a group project and it's in very early stages of development.   
 https://github.com/MakaryBardowski/BHMultiplayer
 
 ## **PROCEDURAL DUNGEON GENERATION**  
