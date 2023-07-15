@@ -3,13 +3,8 @@ My name is Tomasz and I'm studying computer science at the Polish Naval Academy 
 # My Projects
 Some screenshots of my finished projects made in Python and Java.
 
-## **TETRIS**  
-A Pygame implementation of Tetris  
-![GIF](https://user-images.githubusercontent.com/100423134/193448430-26559278-d497-4347-b75a-666e801bc20d.gif)  
-
-## **A STAR ALGORYTM WITH A VISUALISER**  
-A* algorythm implemented in Python and visualised with Pygame  
-![gif](https://user-images.githubusercontent.com/100423134/193448186-804773a3-5d63-43c6-901b-6dfd652eae58.gif)  
+## **FPS Multiplayer Bullet Hell Game**
+https://github.com/MakaryBardowski/BHMultiplayer
 
 ##**PROCEDURAL DUNGEON GENERATION**  
 Procedural Dungeon Generator with GUI created with Tkinter and Pygame  
@@ -19,5 +14,10 @@ Some maps created by the generator:
 The App Can be download from my [here](https://drive.google.com/file/d/1SwB_Pxa6NTAKKXmRZG7rq4rH3D9YEVH-/view?usp=sharing)  
  *(it leads here: https://drive.google.com/file/d/1SwB_Pxa6NTAKKXmRZG7rq4rH3D9YEVH-/view?usp=sharing)*
 
-## **FPS Multiplayer Bullet Hell Game**
-https://github.com/MakaryBardowski/BHMultiplayer
+## **TETRIS**  
+A Pygame implementation of Tetris  
+![GIF](https://user-images.githubusercontent.com/100423134/193448430-26559278-d497-4347-b75a-666e801bc20d.gif)  
+
+## **A STAR ALGORYTM WITH A VISUALISER**  
+A* algorythm implemented in Python and visualised with Pygame  
+![gif](https://user-images.githubusercontent.com/100423134/193448186-804773a3-5d63-43c6-901b-6dfd652eae58.gif)  
