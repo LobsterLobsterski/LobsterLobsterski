@@ -1,5 +1,5 @@
 # About Me
-My name is Tomasz and I'm studying computer science at the Polish Naval Academy in Gdynia, Poland. I'm currently learing Java as Python didn't seem to be all that wanted in my region at my experiance level :)
+My name is Tomasz and I'm studying computer science at the Polish Naval Academy in Gdynia, Poland. I'm currently working as an Intern in Intel Poland in Gdansk.
 # My Projects
 Some screenshots of my finished projects made in Python and Java.
 
