@@ -3,9 +3,8 @@ My name is Tomasz and I'm studying computer science at the Polish Naval Academy 
 # My Projects
 Some screenshots of my finished projects made in Python and Java.
 
-## **FPS Multiplayer Bullet Hell Game**
-A project in which I took part during summer 2023. My contributions include a Procedural 3D Map Generator and early AI for enemies. 
-https://github.com/MakaryBardowski/BHMultiplayer
+## **Project Gugon**
+A game made with pygame for my Bachelor's Thesis. Heavily inspired by D&D and Fear&Hunger (only the combat so don't panic). It includes procedurrally generated maps (Cellular Automata, Random Rooms and Drunken Stumble) as well as enemies controlled by Behaviour Trees.
 
 ## **Car Dealership REST API**
 A REST API for a simple car dealership utilising Spring Boot, Java JPA and a dockerised PostgreSQL database.
